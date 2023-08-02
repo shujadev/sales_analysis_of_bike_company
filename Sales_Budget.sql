@@ -1,8 +1,0 @@
-SELECT --[SalesQuotaKey] 
-     -- ,[EmployeeKey]
-   --   [DateKey] 
- --     ,[CalendarYear]
- --     ,[CalendarQuarter]
-      [SalesAmountQuota] AS [Budget]
-      ,[Date]
-  FROM [AdventureWorksDW2022].[dbo].[FactSalesQuota]
